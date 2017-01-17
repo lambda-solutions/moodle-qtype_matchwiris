@@ -1,0 +1,12 @@
+{
+	"name": "lambda-solutions/moodle-qtype_matchwiris",
+	"description": "Wiris question type match",
+        "license": "GPL-3.0",
+	"type": "moodle-qtype",
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-name": "matchwiris"
+	}
+}
