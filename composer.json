@@ -1,5 +1,5 @@
 {
-	"name": "lambda-solutions/moodle-qtype_matchwiris",
+	"name": "lambda-solutions/qtype_matchwiris",
 	"description": "Wiris question type match",
         "license": "GPL-3.0",
 	"type": "moodle-qtype",
